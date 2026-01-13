@@ -105,10 +105,4 @@ $RECYCLE.BIN/
 /bin/
 /dist/
 
-# AI
-*instructions.md
-AGENTS.md
-SKILLS.md
-SKILL.md
-
 TODO/
